@@ -1,4 +1,7 @@
-﻿
+﻿string value1 = " a";
+string value2 = "A ";
+
+
 void Progam(){
     string[] students = ["Sophia", "Andrew", "Emma", "Logan"];
     int[][] grade = [
